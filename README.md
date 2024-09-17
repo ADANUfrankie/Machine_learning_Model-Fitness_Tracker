@@ -14,3 +14,5 @@ Sports Science and Research: The data-driven approach can assist in research, al
 Wearable Technology Development: The methods used in this project, such as accelerometer and gyroscope data processing, feature engineering, and predictive modeling, could improve wearable fitness devices, making them more accurate and reliable.
 
 Overall, this project has broad applications in improving exercise tracking, enhancing user experience in fitness technology, and advancing sports and health-related research.
+
+## Courtesy, Dave Ebbelaar's tutorials
