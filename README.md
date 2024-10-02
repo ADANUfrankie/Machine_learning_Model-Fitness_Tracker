@@ -15,4 +15,4 @@ Wearable Technology Development: The methods used in this project, such as accel
 
 Overall, this project has broad applications in improving exercise tracking, enhancing user experience in fitness technology, and advancing sports and health-related research.
 
-## Courtesy, Dave Ebbelaar's tutorials
+
